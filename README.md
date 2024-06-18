@@ -1,16 +1,17 @@
 # 哈尔滨工业大学（深圳）大数据专业课程攻略 | HITSZ-OpenDS
 
-受 [哈尔滨工业大学（深圳）计算机专业相关项目](https://github.com/hewei2001/HITSZ-OpenCS)，[浙江大学相关项目](https://github.com/QSCTech/zju-icicles) 和 [清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT) 启发，创立了本项目。
+> **“如果我比别人看得更远，那是因为我站在巨人的肩膀上。”**  
+> **"If I have seen further it is by standing on the shoulders of Giants."**  
+> —— 艾萨克·牛顿（Isaac Newton）
 
+
+受 [哈尔滨工业大学（深圳）计算机专业相关项目](https://github.com/hewei2001/HITSZ-OpenCS)，[浙江大学相关项目](https://github.com/QSCTech/zju-icicles) 和 [清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT) 启发，创立了本项目。
 
 ## 通知 | Notifications
 
 **关于大文件上传的方法**
 
-Github限制了文件上传大小，如果您需要上传大小超过100MB的大文件，请按以下要求进行操作：
-
-1. 将大文件以邮件超大附件的形式发送到 dseid@qq.com 邮箱。
-2. 或者，将文件获取方式发送到 dseid@qq.com 邮箱中，我们会将文件上传到相应的大文件存储服务器，供大家获取使用。感谢您的合作和理解！
+Github限制了文件上传大小，如果您需要上传大小超过100MB的大文件，建议在相应目录下放一个Google云盘或其他网盘的在线下载链接即可。
 
 **建议您点击本仓库右上角的 "Watch" 按钮！** 😃
 
@@ -19,12 +20,15 @@ Github限制了文件上传大小，如果您需要上传大小超过100MB的大
 下面是如何点击 "Watch" 按钮的步骤：
 
 1. 登录您的 GitHub 账户。
+
 2. 打开 [HITSZ-OpenDS](https://github.com/your-username/your-repo) 仓库。
+
 3. 在页面的右上角，您会看到 "Watch" 按钮。点击它。
 
    ![](https://ucarecdn.com/74dc13e8-bfba-42fa-8b0c-581d3a110acf/githubwatch.png)
 
 4. 在下拉菜单中，选择 "All Activity"。
+
 5. 完成！现在您已经订阅了本仓库的所有更新。
 
 ## 贡献 | Contribution
@@ -43,11 +47,11 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
 
 1. 首先 Fork 本项目，点击右上角的 `Fork` 按键即可。
 
-2.  * 上传文件到你自己的Fork仓库，进行文件更新或修改。
+2. - 上传文件到你自己的Fork仓库，进行文件更新或修改。
 
-3. * 提交 PR：上传完文件到个人仓库之后，点击 `Pull Request` 即可。请留意一下项目的文件组织。
+3. - 提交 PR：上传完文件到个人仓库之后，点击 `Pull Request` 即可。请留意一下项目的文件组织。
 
-	* 也可以直接附加在 [Issue](https://github.com/DseidLi/HITSZ-OpenDS/issues/new) 中，由维护者进行添加。
+   - 也可以直接附加在 [Issue](https://github.com/DseidLi/HITSZ-OpenDS/issues/new) 中，由维护者进行添加。
 
 比如我是 2050 年上数据结构的 anonym，想在「数据结构」中传一个自己的笔记，即在「数据结构」文件夹下新建文件夹 `note/2050_anonym`，然后往里面填东西即可。
 
@@ -57,13 +61,33 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
 
 **注意：** 本仓库通常只存放大数据专业特有课程资料，若需与计算机专业重叠课程资料，请移步[哈工大深圳计算机专业相关项目](https://github.com/hewei2001/HITSZ-OpenCS)。
 
-## 特别感谢
+## 贡献者
 
-感谢对本项目贡献的同学：[Dseidhit](https://github.com/Dseidhit)、emanon、[Shiroki Satsuki](https://github.com/shirok1)、[cocacoye](https://github.com/cocacoye)……以及电脑前的您！
+感谢对本项目贡献的同学：
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+<a href="https://github.com/DseidLi/HITSZ-OpenDS/graphs/contributors" target="_blank">
+  <table>
+    <tr>
+      <th colspan="2">
+        <br><img src="https://contrib.rocks/image?repo=DseidLi/HITSZ-OpenDS"><br><br>
+      </th>
+    </tr>
+  </table>
+</a>
+
+……以及电脑前的您！
 
 本项目目前完全由历届学长、学姐的无私奉献与整理而得到，蕴藏在每份文件的背后都是无差别的人类劳动。你们的感谢与关注将成为项目贡献者继续更新的最大动力！
 
-<p><a href="https://star-history.com/#DseidLi/HITSZ-OpenDS"><img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DseidLi/HITSZ-OpenDS"></a></p>
+<details>
+  <summary><kbd>Star History</kbd></summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DseidLi%2FHITSZ-OpenDS&theme=auto&type=Date">
+    <img width="100%" src="https://api.star-history.com/svg?repos=DseidLi%2FHITSZ-OpenDS&type=Date">
+  </picture>
+</details>
 
 ## 前言 | Preface
 
@@ -79,7 +103,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
 
 我希望只要是前人走过的弯路，后人就不必再走。这是我的信念，也是我建立这个项目的原因。
 
->摘录自 [浙江大学相关项目](https://github.com/QSCTech/zju-icicles)
+> 摘录自 [浙江大学相关项目](https://github.com/QSCTech/zju-icicles)
 
 ## 愿景 | Vision
 
@@ -87,7 +111,8 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
 2. 一定程度上消除信息不对称所带来的不公平现象。
 3. 以成为同学们学习中的辅助与参考为出发点，**坚决反对抄袭**。
 4. 仓库存活期间永久保证：**公益、免费、开源**。
->摘录自 [哈尔滨工业大学（深圳）计算机专业相关项目](https://github.com/hewei2001/HITSZ-OpenCS)
+
+> 摘录自 [哈尔滨工业大学（深圳）计算机专业相关项目](https://github.com/hewei2001/HITSZ-OpenCS)
 
 ## 许可 | License
 
@@ -97,4 +122,4 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
 
 其他部分的版权归属于其各自的作者。资料仅供参考，请自己判断其适用性。
 
->摘录自 [哈尔滨工业大学（深圳）计算机专业相关项目](https://github.com/hewei2001/HITSZ-OpenCS)
+> 摘录自 [哈尔滨工业大学（深圳）计算机专业相关项目](https://github.com/hewei2001/HITSZ-OpenCS)
